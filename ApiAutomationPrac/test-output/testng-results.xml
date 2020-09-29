@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15345" started-at="2020-07-23T06:31:57Z" finished-at="2020-07-23T06:32:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15345" started-at="2020-07-23T06:31:57Z" finished-at="2020-07-23T06:32:13Z">
+      <class name="com.Put.goRest.PutTest">
+        <test-method status="PASS" signature="put_GoRestTest()[pri:0, instance:com.Put.goRest.PutTest@2893de87]" name="put_GoRestTest" duration-ms="15148" started-at="2020-07-23T06:31:57Z" finished-at="2020-07-23T06:32:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- put_GoRestTest -->
+      </class> <!-- com.Put.goRest.PutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
